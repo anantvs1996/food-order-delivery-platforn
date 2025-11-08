@@ -10,6 +10,7 @@ public class OrderEvent {
     private String customerId;
     private List<OrderItem> items;
     private Double total;
+
     // getters/setters, constructors
 
     public Long getOrderId() {
